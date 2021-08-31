@@ -1,0 +1,5 @@
+
+* Introduction-to-NLP
+ - Playground of the cource from Udemy - [[https://www.udemy.com/course/natural-language-processing/]["Introduction to Natural Language Processing"]]
+ - [[https://github.com/bsacash/Introduction-to-NLP][The original repository]]
+  
